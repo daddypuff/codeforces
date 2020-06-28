@@ -30,7 +30,7 @@ int main()
 		cout<<"YES\n";
 	else
 		cout<<"NO\n";
-	//cout<<str1<<" "<<str2;
+	cout<<str1<<" "<<str2;
 	
  }
  return 0;
